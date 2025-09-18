@@ -21,6 +21,9 @@ In summary, a movie search app simplifies movie discovery by combining powerful 
 
 # OUTPUT
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/da6d78a9-38bd-44d7-80de-1081829ee628" />
+
+
 
 
 
